@@ -12,7 +12,7 @@ $( document ).ready(function() {
 
     $.backstretch("images/background-clouds.gif");
 
-    var server = "http://api.openweathermap.org/data/2.5/forecast?q="
+    var server = "https://api.openweathermap.org/data/2.5/forecast?q="
     var api_klic = "&APPID=afb6e76426a0802ed7f8dcdb42900eab&units=metric"
 
 
